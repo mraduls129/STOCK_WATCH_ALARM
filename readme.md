@@ -1,6 +1,6 @@
-# Crash Alert: NIFTY 50 Stocks
+# STOCK WATCH ALARM: NIFTY Stocks
 
-This is a project that sends email notifications to users when a stock from NIFTY 50 crashes. The project leverages a range of modern technologies, including HTML, CSS, JavaScript, Node.js, Express, and MongoDB.The project is powered by Nodemailer, a versatile email-sending library that makes it easy to keep users informed about market movements in real time. The project is able to deliver a seamless user experience and help users stay informed and up-to-date on critical market changes.
+This is a project that sends email notifications to users when a stock from NIFTY  crashes. The project leverages a range of modern technologies, including HTML, CSS, JavaScript, Node.js, Express, and MongoDB.The project is powered by Nodemailer, a versatile email-sending library that makes it easy to keep users informed about market movements in real time. The project is able to deliver a seamless user experience and help users stay informed and up-to-date on critical market changes.
 
 ## Features
 
@@ -46,6 +46,6 @@ Follow the below instructions to run the project on your local machine:
 # 
 
 To contribute to the project, you can open a pull request with your changes.    
-If you have any questions or issues, feel free to reach out to me at pushkarhelge7777@gmail.com. 
+If you have any questions or issues, feel free to reach out to me at mraduls129@gmail.com. 
 
 ## Thank you for taking the time to read!
